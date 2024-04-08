@@ -1,7 +1,6 @@
 package Lab_3;
 
 import java.util.*;
-import java.util.function.Consumer;
 
 class BankAccount {
     String accountHolderName;
