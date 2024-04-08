@@ -12,6 +12,9 @@ class Assignment_1_problem_1_i {
         arr[1] = Integer.parseInt(args[1]);
         arr[2] = Integer.parseInt(args[2]);
         Arrays.sort(arr);
+        String s = "123";
+        int u = Integer.parseInt(s);
+        System.out.println(u + 10);
         System.out.println("The larges of the three numbers is " + arr[2]);
     }
 }
