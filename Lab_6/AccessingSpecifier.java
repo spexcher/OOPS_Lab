@@ -11,7 +11,7 @@ class AccessingSpecifier {
   public void privatesetter(int yu){
     this.private_variable = yu;
   }
-  public int privategetter(int yu){
+  public int privategetter(){
     return this.private_variable;
   }
 
