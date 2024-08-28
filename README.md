@@ -17,7 +17,7 @@ This repository contains the Object-Oriented Programming System (OOPS) assignmen
 - **Subject:** Object-Oriented Programming System
 - **Institution:** Jalpaiguri Government Engineering College
 - **Course:** B.Tech in Computer Science and Engineering OR Information Technology
-- **Instructor:** [Swarup Samanta]
+- **Instructor:** [Swarup Samanta] in my case
 - **Semester:** [Could be any from 3rd to 6th]
 
 ### Objectives
@@ -36,7 +36,7 @@ This repository contains the Object-Oriented Programming System (OOPS) assignmen
     ```
 2. Navigate to the project directory:
     ```bash
-    cd oops-assignment
+    cd OOPS_Lab
     ```
 3. Open the project in your preferred IDE.
 
