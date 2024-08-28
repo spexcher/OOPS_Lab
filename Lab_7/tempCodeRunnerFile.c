@@ -1,1 +1,0 @@
- printf("Thank you for using this program . We wish you have a nice day");
